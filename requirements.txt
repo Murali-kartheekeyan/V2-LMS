@@ -5,3 +5,4 @@ pandas
 PyMySQL
 requests
 gunicorn
+psycopg2-binary
